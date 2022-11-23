@@ -1,0 +1,16 @@
+theme: jekyll-theme-slate
+
+title: Hashi Solver
+description: Automated solver for Hashi puzzles
+
+show_downloads: false
+google_analytics: false
+
+optional_front_matter:
+  remove_originals: true
+
+readme_index:
+  remove_originals: true
+
+titles_from_headings:
+  strip_title: true
