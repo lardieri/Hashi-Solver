@@ -14,3 +14,6 @@ readme_index:
 
 titles_from_headings:
   strip_title: true
+
+github:
+  is_project_page: false
