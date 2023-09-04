@@ -1,12 +1,14 @@
 # Hashi Solver
 
-An iOS app that solves Hashi puzzles.
+[<img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1670457600" alt="Download on the App Store"/>](https://apps.apple.com/us/app/hashi-solver/id6444668783?itsct=apps_box_badge&amp;itscg=30200)
 
 ## What this app does
 
-* Lets you enter Hashi puzzles using a puzzle editor.
+* Solves Hashi puzzles that you enter using the puzzle editor.
 
-* Tries to solve the puzzle you entered.
+* Saves puzzle images to your photo library.
+
+* Stores and reloads puzzles using files in your iCloud Drive, etc.
 
 ## How to use
 
