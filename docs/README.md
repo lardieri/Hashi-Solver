@@ -10,6 +10,9 @@
 
 * Stores and reloads puzzles using files in your iCloud Drive, etc.
 
+![Screen image 1](./assets/images/1.png) ![Screen image 0](./assets/images/0.png) ![Screen image 2](./assets/images/2.png) ![Screen image 0](./assets/images/0.png) ![Screen image 3](./assets/images/3.png) ![Screen image 0](./assets/images/0.png) ![Screen image 4](./assets/images/4.png)
+
+
 ## How to use
 
 1. **Create a new puzzle.** Plant new islands by tapping on any empty space in the grid.
